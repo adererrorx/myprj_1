@@ -7,3 +7,8 @@ const $btnDel = document.getElementById('btnDel');
 $btnDel.addEventListener('click', () => {
   console.log('클릭');
 });
+
+const $btnUpdate = document.getElementById('btnDel');
+$btnDel.addEventListener('click', () => {
+  console.log('클릭');
+});
